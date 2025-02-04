@@ -113,7 +113,7 @@ layers:
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - RGB BRI
   - RGB BRD
-  - Ins
+  - EP TOG
   - F11
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
