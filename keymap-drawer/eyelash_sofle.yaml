@@ -80,7 +80,7 @@ layers:
   - F10
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '`', s: '~'}
+  - F11
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-scroll-wheel$$
   - $$mdi:mouse-right-click-outline$$
@@ -90,7 +90,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - '~'
